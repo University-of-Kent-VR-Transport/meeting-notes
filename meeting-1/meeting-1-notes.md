@@ -13,9 +13,9 @@ Not In Attendance: N/A
 
 ## What's Being Done
 ### Henry
-- [ ] Working on CI for GitHub projects
-- [ ] Starting GoLang server to get bus data for the VR Client
-- [ ] Setting up meeting
+- [x] Working on CI for GitHub projects
+- [x] Starting GoLang server to get bus data for the VR Client
+- [x] Setting up meeting
 ### Alex
 - [ ] Adding the VR SDK to Unity
 ### Joshua
@@ -31,5 +31,5 @@ Not In Attendance: N/A
 - Weekly meetings on Mondays 1500
 
 ### Questions Coming Out of Meeting
-- [ ] Ask Dominique about receiving VR device
-- [ ] Ask Dominique what UML preparation needs to be completed
+- [x] Ask Dominique about receiving VR device
+- [x] Ask Dominique what UML preparation needs to be completed
