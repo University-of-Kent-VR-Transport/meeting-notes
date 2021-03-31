@@ -9,3 +9,4 @@ This repository stores the meetings notes.
 - [Meeting 5 - `21.02.17`](./meeting-5/meeting-5-notes.md)
 - [Meeting 6 - `21.02.24`](./meeting-6/meeting-6-notes.md)
 - [Meeting 7 - `21.03.03`](./meeting-7/meeting-7-notes.md)
+- [Meeting 8 - `21.03.10`](./meeting-8/meeting-8-notes.md)
