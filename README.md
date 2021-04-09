@@ -18,3 +18,4 @@ This repository stores the meetings notes.
 - [Meeting 14 - `21.04.02`](./meeting-14/meeting-14-notes.md)
 - [Meeting 15 - `21.04.05`](./meeting-15/meeting-15-notes.md)
 - [Meeting 16 - `21.04.07`](./meeting-16/meeting-16-notes.md)
+- [Meeting 17 - `21.04.09`](./meeting-17/meeting-17-notes.md)
